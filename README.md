@@ -1,7 +1,8 @@
 # YouTube Clone with React and Material UI
 
-(youtubeClone.png)
-![Demo](webtube-yt.netlify.app)
+![YouTube Clone](youtubeClone.png)
+
+![Demo](https://webtube-yt.netlify.app)
 
 A YouTube clone built with React.js and Material UI, supporting both dark and light modes. The project is designed to be highly responsive on all devices and utilizes the power of Material UI version 5.
 
